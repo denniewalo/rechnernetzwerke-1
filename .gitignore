@@ -1,5 +1,5 @@
 # own additions
-.idea
+.idea.*
 
 # Compiled class file
 *.class
